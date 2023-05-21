@@ -1,5 +1,7 @@
 # IdleOnAutomation
 
+
+## Fishing
 Download and Install AutoHotKey
 
 Start the fishing minigame
